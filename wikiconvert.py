@@ -9,7 +9,7 @@ where "PROJID" is the github project id, e.g. "trentm/python-markdown2",
 "DSTDIR" is the git clone dir of the git project's wiki.
 """
 
-__version__ = "1.0.0"
+__version__ = "1.0.1"
 
 import re
 import sys
